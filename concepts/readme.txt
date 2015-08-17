@@ -1,0 +1,1 @@
+Programs that, in some way, taught me a new concept. This folder is just for study purposes. The programs here are also saved in their corresponding folders. 
